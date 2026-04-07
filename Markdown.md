@@ -17,7 +17,7 @@ O `padding` no CSS define o **espaço interno** de um elemento, ou seja, a dist�
 
 ## Para que serve?  
 O **`padding`** serve principalmente para **controlar o espaço interno de um elemento**, ou seja, a distância entre o conteúdo (texto, imagem, botão etc.) e a borda do elemento. Ele é usado para **tornar o conteúdo mais legível e visualmente agradável**, sem “grudar” na borda.
-ex:
+ ex:
 - **padding-top:** 10px; 
 - **padding-right: 20px;** → espaço interno (o foco aqui)  
 - **padding-bottom: 15px;** → borda  
